@@ -10,7 +10,7 @@ We are using a dataset containing images of tomato leaves affected by various di
 3. Model Building
 - We use a deep learning model, such as a Convolutional Neural Network (CNN), to learn features from the images and classify them into disease categories.The model consists of layers that extract patterns and features from the images, followed by fully connected layers for classification.¶
 
-- 4. Training the Model:¶
+4. Training the Model:¶
 - We train the model using the training dataset, adjusting the model's weights based on the difference between predicted and actual disease categories.During training, we monitor the model's performance on the validation set to avoid overfitting.
 5. Model Evaluation:
 - After training, we evaluate the model's performance on the validation set to assess its ability to generalize to new, unseen data.We use metrics such as accuracy to measure the model's performance.
