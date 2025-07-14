@@ -1,3 +1,5 @@
+Dataset used:=https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf
+
 1. Problem Statement¶
 - Given a dataset of tomato leaf images, the task is to develop a machine learning model that can accurately classify the images into different disease categories. The goal is to help farmers quickly identify and treat diseased tomato plants, thereby improving crop yield and reducing losses.
 2. Our Working
